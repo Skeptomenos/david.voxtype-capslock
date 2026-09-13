@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "david.voxtype-capslock",
+  "name": "Voxtype Caps Lock",
+  "version": "1.0.0",
+  "author": "David Helmus",
+  "license": "MIT",
+  "description": "Click Caps Lock to toggle Voxtype dictation. The Caps Lock light follows recording state.",
+  "kinds": ["service"],
+  "keepLoaded": true,
+  "entryPoints": {
+    "service": "Service.qml"
+  }
+}

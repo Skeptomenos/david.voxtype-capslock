@@ -1,0 +1,4 @@
+partial modifier_keys
+xkb_symbols "f13" {
+    replace key <CAPS> { [ F13 ] };
+};

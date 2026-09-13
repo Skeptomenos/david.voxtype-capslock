@@ -1,0 +1,4 @@
+! include %S/evdev
+
+! option	=	symbols
+  voxtype:caps	=	+voxtype_caps(f13)
